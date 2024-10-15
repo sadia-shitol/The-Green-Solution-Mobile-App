@@ -2,9 +2,10 @@
 
 A QnA base App for Farmers and Agronomists.
 
-## Getting Started
+## Farmers
 
 This project is a starting point for a Flutter application.
+We are trying to develop such an app that will aid peasants to improve their livelihood.
 
 A few resources to get you started if this is your first Flutter project:
 
